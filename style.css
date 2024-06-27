@@ -15,8 +15,8 @@ body{
     background-color: #FFF3C7;
     padding: 2rem;
     border-radius: 1rem;
-    height: 50vh;
-    width: 45vh;
+    min-height: 50vh;
+    min-width: 45vh;
 }
 
 h1{
